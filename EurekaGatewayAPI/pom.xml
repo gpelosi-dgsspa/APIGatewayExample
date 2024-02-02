@@ -8,11 +8,11 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dgsspa.kommander</groupId>
-	<artifactId>KommanderGatewayAPI</artifactId>
+	<groupId>com.dgsspa.eureka</groupId>
+	<artifactId>EurekaGatewayAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>KommanderGatewayAPI</name>
-	<description>Demo project for Spring Boot</description>
+	<name>EurekaGatewayAPI</name>
+	<description>Simple API Gateway with Eureka Server</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>

@@ -8,11 +8,11 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dgsspa.kommander</groupId>
-	<artifactId>KommanderDiscoveryService</artifactId>
+	<groupId>com.dgsspa.eureka</groupId>
+	<artifactId>EurekaDiscoveryService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>KommanderDiscoveryService</name>
-	<description>Kommander API Discovery Service with Eureka Server</description>
+	<name>EurekaDiscoveryService</name>
+	<description>API Discovery Service with Eureka Server</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>
